@@ -1,2 +1,2 @@
-# Maxtrix-Factorization-
-This might be used for recommendation system
+# Matrix-Factorization
+This can be used for recommendation system
